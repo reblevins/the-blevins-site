@@ -2495,6 +2495,15 @@
 		display: flex;
 	}
 
+		.spotlight .image-overlay {
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		    width: 100%;
+		    height: 100%;
+		    background-color: rgba(183,71,63,0.7);
+		}
+
 		.spotlight .image {
 			-moz-order: 1;
 			-webkit-order: 1;
