@@ -894,6 +894,8 @@
 			text-align: left;
 			width: 50%;
 
+			img { max-width: 100%; }
+
 			@for $i from 1 through _misc(max-features) {
 				$j: 0.035 * $i;
 
