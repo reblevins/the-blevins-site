@@ -1,5 +1,5 @@
 ---
-title: '<div>Missionaries not just surviving, but thriving!</div>'
+title: 'Missionaries not just surviving, but thriving!'
 date: '2018-02-26T00:00:00-07:00'
 description: >-
   Ik zeg het zo vaak… we zijn hier nu 5 jaar en je zou denken dat we al aardig
@@ -15,7 +15,7 @@ We hebben ons al heel wat aangepast aan de manier van wonen en leven in Colorado
   
 We moeten er wel eens om lachen hoe Nederlands ik blijf, door b.v. iemand te feliciteren met “iemand anders". Hier feliciteer je elkaar helemaal niet met je familie of vrienden en volwassenen vieren hun verjaardag niet eens! Die “gezellige" verjaardag in de huiskamer met eerst koffie en taart en dat allemaal pas na 20:00 uur s’avonds klinkt hier vreemd in de oren.
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/42329f9d-dc2d-4dc7-aeb3-a177fb370e6e.jpg) {.right}
+<img class="image one-third right" src="/img/coffee-cup.jpg">
 
 Het zit er bij mij zo “ingebakken” om thuis gezellig koffie te drinken en ik blijf het proberen om af en toe iemand uit te nodigen voor een "bakje koffie” bij Jo op de bank! Dit is blijkbaar echt Nederlands, want hier is het gewoon dat je met elkaar eet en iedereen neemt iets mee voor de maaltijd en dan blijf je bijna nooit later dan 20:00 uur bij iemand op bezoek!
 
@@ -31,32 +31,26 @@ Internationale Member Care Consultatie (IMCC)
 Ik ben weer terug van weggeweest! Wat ben ik bevoorrecht om met een team van geweldige collega’s in "Zendelingen Zorg” te werken. Tijdens mijn week bij [JmeO Orlando](http://ywamorlando.com) in Florida, waar onze Internationale consultatie plaatsvond, heb ik genoten van het netwerken en brainstormen met collega’s die op het zelfde vakgebied binnen onze internationale JmeO organisatie werken. We waren vanuit alle hoeken van de wereld samengekomen en hadden werkers uit o.a. de Caribische eilanden, Oost Azië, Europa, Noord Amerika, Canada, Zuid Amerika, en Afrika.   
 Wat heerlijk om een “op frisser” te ervaren door het netwerken, getuigenissen te delen en vanuit onze verschillende regio’s de ervaringen en verslagen te horen.
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ff57ca7d-0482-42ba-9080-bd836f10c3f9.jpg)
-
-De deelnemers aan de IMCC 2018
+{{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ff57ca7d-0482-42ba-9080-bd836f10c3f9.jpg" title="De deelnemers aan de IMCC 2018" >}}
 
 We hebben gewerkt aan de “Code of Member Care Best Practice”, waar onze groep voor Noord Amerika gekeken heeft hoe we het beste een zendelingen gezin, echtpaar of single kunnen voorbereiden op zending en de uitzending daarvan.  
 Dat deze werkers vooraf, op het veld en met verlof of definitieve terugkeer met kwaliteit en zorg begeleid worden en met veerkracht hun werk uitvoeren. Zodat zendelingen niet alleen “overleven”, maar ook met voorspoed, veerkracht en effectief hun bediening multicultureel blijven uitoefenen. We kennen allemaal die ervaringen als het tegenzit, ingrijpende gebeurtenissen, symptomen van vermoeidheid, financiële zorgen en dan toch de verantwoordelijk voelen om door te gaan en het werk te verrichten wat van ons verwacht wordt. Hoe zou jij je voelen als dit in een ander land, cultuur en taal is en hierin een goede balans wil blijven ervaren? Vandaar dat Member Care wil assisteren met goede voorbereidingen, toezicht, begeleiding en debriefing/coaching.  
   
 Naast het werken in onze regio groepen hebben we ook meer bijscholing gehad in onderwerpen zoals: debriefing, preventiezorg en hoe te zorgen voor mensen in een langdurige crisis en mensen die secundair trauma ervaren.
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg)
-
-Elke dag aten we lunch en dinner buiten onder een grote hangaar! JmeO Orlando heeft 130 stafmensen en deed mij aan Heidebeek denken.
-
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/4168c777-5189-4663-9ba0-8a4f68f6b4d0.jpg)
+{{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg" title="Elke dag aten we lunch en dinner buiten onder een grote hangaar! JmeO Orlando heeft 130 stafmensen en deed mij aan Heidebeek denken." >}}
 
 Samen met Marcia bij de ingang van JmeO Orlando. Marcia en ik kennen elkaar van Heidebeek en werken nu allebei voor Zendelingen zorg in Noord Amerika.
 
 De heerlijke Orlando temperaturen van 28C, het terug zijn op een JmeO basis en het zien van collega’s was heel goed voor mij. Voor de Member Care consultatie van start ging heb ik eerst nog een heerlijke volle dag genoten van het weerzien van collega zendelingen uit onze Bosnië tijd die nu in Orlando wonen. We hadden elkaar bijna 12 jaar niet gezien en het voelde zo vertrouwd en als vanouds. Zo jammer dat Rodney en de meiden niet bij dit weerzien konden zijn.
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/3431c309-711f-45cb-a35f-77678feab3dc.jpg)
+<div class="gallery">
+{{< figure class="image left one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/3431c309-711f-45cb-a35f-77678feab3dc.jpg" title="Tijdens mijn verblijf in Florida heb ik 'helaas' geen alligators gezien." >}}
 
-Tijdens mijn verblijf in Florida heb ik "helaas" geen alligators gezien.
+{{< figure class="image right one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/67fb1a3e-3b42-4c2a-8e69-3781b874fc80.jpg" title="Samen met mijn vriendin en oud collega Tammie! Wat een heerlijk weerzien en zo goed om onze Bosnië herinneringen en getuigenissen te noemen." >}}
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/67fb1a3e-3b42-4c2a-8e69-3781b874fc80.jpg)
-
-Samen met mijn vriendin en oud collega Tammie! Wat een heerlijk weerzien en zo goed om onze Bosnië herinneringen en getuigenissen te noemen. 
+<div class="clearfix"></div>
+</div>
 
 Y360 locatie verkocht!
 ----------------------

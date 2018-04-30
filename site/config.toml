@@ -1,14 +1,15 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+DefaultContentLanguage = "en"
+staticDir = "static"
+# title = "Homepage"
 [languages]
 	[languages.en]
-		baseURL = "https://amazing-fermi-6e7f97.netlify.com"
+		baseURL = "https://en.blevins.nl"
 		languageName = "English"
 		title = "In English"
 		weight = 1
 	[languages.nl]
-		baseURL = "https://amazing-fermi-6e7f97.netlify.com/nl"
+		baseURL = "https://www.blevins.nl"
 		languageName = "Nederlands"
 		title = "In het Nederlands"
 		weight = 2

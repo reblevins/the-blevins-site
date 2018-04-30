@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-{{ partial "banner" }}
-<!-- {{ partial "banner" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }} -->
+<!-- {{ partial "banner" .Params.banner }} -->
+{{ partial "banner" (dict "title" .Params.banner.heading "text" .Params.banner.text) }}
 
-{{ partial "section-1" .Params.blurb}}
+{{ partial "section-1" .Params.blurb }}
 
-{{ partial "section-2" .Params.blurb}}
+{{ partial "section-2" .Params.blurb }}
 
 {{ partial "blog" . }}
 
